@@ -1,0 +1,470 @@
+html{
+    scroll-behavior: smooth;
+}
+
+#pic1{
+    width: 1250px;
+    height: 964px;
+    margin-top: -1%;
+    margin-left: -1%;
+    position: absolute;
+}
+
+#p2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold';
+    margin-left: 1%;
+    z-index: 200;
+    position: absolute;
+    color: white;
+    font-size: 28px;
+}
+
+#p1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 6%;
+    margin-top: 18.5%;
+    color: white;
+    position: absolute;
+    z-index: 200;
+    font-size: 98px;
+    text-shadow: 8px 10px 3px black;
+}
+
+#sl1{
+    width: 156px;
+    margin-left: 67.2%;
+    margin-top: 1%;
+    position: absolute;
+}
+
+#k1{
+    text-shadow: 2px 2px 5px grey;
+    margin-top: 2.7%;
+    margin-left: 77%;
+    z-index: 200;
+    position:absolute;
+    font-size: 23px;
+}
+
+#lg1{
+    margin-top: 0.8%;
+    margin-left: 94%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg2{
+    margin-top: 0.8%;
+    margin-left: 91.4%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg3{
+    margin-top: 0.8%;
+    margin-left: 88.2%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg4{
+    margin-top: 0.8%;
+    margin-left: 96%;
+    width: 49px;
+    position: absolute;
+}
+
+#l1{
+    margin-top: -0.4%;
+    position: absolute;
+    margin-left: 64%;
+    border: 3px solid black;
+    width: 677px;
+    height: 150px;
+}
+
+#sl2{
+    height: 135px;
+    width: 140px;
+    margin-left: 67.6%;
+    margin-top: 8.1%;
+    position: absolute;
+}
+
+#lg6{
+    margin-top: 8.2%;
+    margin-left: 96%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg5{
+    margin-top: 8.2%;
+    margin-left: 93.6%;
+    width: 45px;
+    position: absolute;
+}
+
+#k2{
+    text-shadow: 2px 2px 5px grey;
+    margin-top: 10.3%;
+    margin-left: 77%;
+    z-index: 200;
+    position:absolute;
+    font-size: 23px;
+}
+
+#l2{
+    margin-top: 7.5%;
+    position: absolute;
+    margin-left: 64%;
+    border: 3px solid black;
+    width: 677px;
+    height: 150px;
+}
+
+#lg7{
+    margin-top: 16%;
+    margin-left: 93.5%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg8{
+    margin-top: 16%;
+    margin-left: 90.4%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg9{
+    margin-top: 15.8%;
+    margin-left: 96%;
+    width: 49px;
+    position: absolute;
+}
+
+#l3{
+    margin-top: 15.4%;
+    position: absolute;
+    margin-left: 64%;
+    border: 3px solid black;
+    width: 677px;
+    height: 150px;
+}
+
+#sl3{
+    height: 135px;
+    width: 140px;
+    margin-left: 67.6%;
+    margin-top: 16%;
+    position: absolute;
+}
+
+#k3{
+    text-shadow: 2px 2px 5px grey;
+    margin-top: 18.45%;
+    margin-left: 77%;
+    z-index: 200;
+    position:absolute;
+    font-size: 23px;
+}
+
+#lg10{
+    margin-top: 24.1%;
+    margin-left: 96%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg11{
+    margin-top: 24%;
+    margin-left: 93.6%;
+    width: 45px;
+    position: absolute;
+}
+
+#l4{
+    margin-top: 23.45%;
+    position: absolute;
+    margin-left: 64%;
+    border: 3px solid black;
+    width: 677px;
+    height: 173px;
+}
+
+#sl4{
+    height: 135px;
+    width: 195px;
+    margin-left: 67.7%;
+    margin-top: 24.7%;
+    position: absolute;
+}
+
+#k4{
+    text-shadow: 2px 2px 5px grey;
+    margin-top: 26.8%;
+    margin-left: 80%;
+    z-index: 200;
+    position:absolute;
+    font-size: 23px;
+}
+
+#k5{
+    text-shadow: 2px 2px 5px grey;
+    margin-top: 36%;
+    margin-left: 79.5%;
+    z-index: 200;
+    position:absolute;
+    font-size: 23px;
+}
+
+#lg12{
+    margin-top: 33%;
+    margin-left: 96%;
+    width: 49px;
+    position: absolute;
+}
+
+#sl5{
+    height: 135px;
+    width: 185px;
+    margin-left: 67.6%;
+    margin-top: 33.5%;
+    position: absolute;
+}
+
+#l5{
+    margin-top: 32.55%;
+    position: absolute;
+    margin-left: 64%;
+    border: 3px solid black;
+    width: 677px;
+    height: 160px;
+}
+
+#lg14{
+    margin-top: 41.5%;
+    margin-left: 93.5%;
+    width: 45px;
+    position: absolute;
+}
+
+#lg13{
+    margin-top: 41.5%;
+    margin-left: 96%;
+    width: 49px;
+    position: absolute;
+}
+
+#sl6{
+    height: 135px;
+    width: 175px;
+    margin-left: 67.6%;
+    margin-top: 41.5%;
+    position: absolute;
+}
+
+#l6{
+    margin-top: 41%;
+    position: absolute;
+    margin-left: 64%;
+    border: 3px solid black;
+    width: 677px;
+    height: 152px;
+}
+
+#k6{
+    text-shadow: 2px 2px 5px grey;
+    margin-top: 44%;
+    margin-left: 79%;
+    z-index: 200;
+    position:absolute;
+    font-size: 23px;
+}
+
+
+@media only screen and (max-width:400px){
+    #pic1{
+        margin-top: -2%;
+        margin-left: -2%;
+        height: 340px;
+        width: 399px;
+    }
+    #p2{
+        font-size: 21px;
+    }
+    #p1{
+        margin-top: 32%;
+        width: 300px;
+        z-index: 300;
+        margin-left: 12%;
+        font-size: 42px;
+    }
+    #l1{
+        width: 393px;
+        margin-left: -2%;
+        margin-top: 82%;
+    }
+    #l2{
+        width: 393px;
+        margin-left: -2%;
+        margin-top: 120%;
+    }
+    #l3{
+        width: 393px;
+        margin-left: -2%;
+        margin-top: 158%;
+    }
+    #l4{
+        width: 393px;
+        margin-left: -2%;
+        margin-top: 196%;
+    }
+    #l5{
+        width: 393px;
+        margin-left: -2%;
+        margin-top: 240%;
+    }
+    #l6{
+        width: 393px;
+        margin-left: -2%;
+        margin-top: 281%
+    }
+    #sl1{
+        width: 115px;
+        margin-left: 8%;
+        margin-top: 91.5%;
+    }
+    #sl2{
+        height: 110px;
+        width: 100px;
+        margin-left: 10%;
+        margin-top: 126%;
+    }
+    #sl3{
+        height: 125px;
+        width: 115px;
+        margin-left: 8.2%;
+        margin-top: 161.5%;
+    }
+    #sl4{
+        height: 100px;
+        width: 135px;
+        margin-left: 8%;
+        margin-top: 206%;
+    }
+    #sl5{
+        height: 100px;
+        width: 125px;
+        margin-left: 9%;
+        margin-top: 249%;
+    }
+    #sl6{
+        height: 100px;
+        width: 125px;
+        margin-left: 9%;
+        margin-top: 288%;
+    }
+    #k1{
+        margin-left: 47%;
+        font-size: 18px;
+        margin-top: 97.3%;
+    }
+    #k2{
+        margin-left: 46%;
+        font-size: 18px;
+        margin-top: 137%;
+    }
+    #k3{
+        margin-left: 47%;
+        font-size: 18px;
+        margin-top: 174.5%;
+    }
+    #k4{
+        margin-left: 53%;
+        font-size: 18px;
+        margin-top: 214%;
+    }
+    #k5{
+        margin-left: 52%;
+        font-size: 18px;
+        margin-top: 257%;
+    }
+    #k6{
+        margin-left: 52%;
+        font-size: 18px;
+        margin-top: 298%;
+    }
+    #lg1{
+        width: 35px;
+        margin-left: 80%;
+        margin-top: 84%;
+    }
+    #lg2{
+        margin-left: 70.25%;
+        width: 37px;
+        margin-top: 84.2%;
+    }
+    #lg3{
+        margin-left: 60%;
+        width: 34px;
+        margin-top: 84%;
+    }
+    #lg4{
+        margin-left: 87.5%;
+        width: 36px;
+        margin-top: 84%;
+    }
+    #lg5{
+        margin-left: 75%;
+        width: 36px;
+        margin-top: 123%;
+    }
+    #lg6{
+        margin-left: 85%;
+        width: 36px;
+        margin-top: 122.5%;
+    }
+    #lg7{
+        margin-left: 78%;
+        width: 36px;
+        margin-top: 161.1%;
+    }
+    #lg8{
+        margin-left: 67%;
+        width: 36px;
+        margin-top: 161.1%;
+    }
+    #lg9{
+        margin-left: 87%;
+        width: 38px;
+        margin-top: 161%;
+    }
+    #lg10{
+        width: 36px;
+        margin-left: 87%;
+        margin-top: 198.8%;
+    }
+    #lg11{
+        margin-left: 77.8%;
+        width: 36px;
+        margin-top: 198.8%;
+    }
+    #lg12{
+        margin-left: 87%;
+        width: 38px;
+        margin-top: 242%;
+    }
+    #lg13{
+        margin-left: 87%;
+        width: 36px;
+        margin-top: 284%;
+    }
+    #lg14{
+        margin-left: 78%;
+        width: 36px;
+        margin-top: 284.2%;
+    }
+   
+}
